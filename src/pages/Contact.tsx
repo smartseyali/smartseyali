@@ -63,26 +63,26 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      value: "info@smartseyalitech.com",
+      value: "smartseyali@gmail.com",
       description: "Send us an email anytime"
     },
     {
       icon: Phone,
       title: "Call Us",
-      value: "+1 (555) 123-4567",
-      description: "Mon-Fri from 8am to 5pm"
+      value: "+91 8870 746955",
+      description: "Mon-Sun from 8am to 10pm"
     },
     {
       icon: MapPin,
       title: "Visit Us",
-      value: "San Francisco, CA",
-      description: "123 Innovation Street, Suite 100"
+      value: "Tiruppur, TN, India",
+      description: "Nethaji Third St, SR Nagar,"
     },
     {
       icon: Clock,
       title: "Business Hours",
-      value: "Mon - Fri: 8am - 5pm",
-      description: "Saturday: 9am - 2pm"
+      value: "Mon - Sat: 6pm - 10pm",
+      description: "Sunday: 9am - 10pm"
     }
   ];
 
