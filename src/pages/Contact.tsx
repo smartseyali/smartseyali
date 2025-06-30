@@ -273,7 +273,7 @@ const Contact = () => {
               Our Location
             </h2>
             <p className="text-xl text-gray-600">
-              Located in the heart of San Francisco's tech district
+              Located in the heart of Tiruppur district
             </p>
           </div>
           
@@ -285,8 +285,8 @@ const Contact = () => {
                 Interactive map will be integrated here
               </p>
               <p className="text-gray-500 text-sm mt-2">
-                123 Innovation Street, Suite 100<br />
-                San Francisco, CA 94105
+                Nethaji 3rd Street, SR Nagar, Tiruppur<br />
+                TamilNadu, IN 641687
               </p>
             </div>
           </div>
