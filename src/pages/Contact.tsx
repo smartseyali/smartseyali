@@ -69,7 +69,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      value: "+91 8870 746955",
+      value: "+91 90477 36612",
       description: "Mon-Sun from 8am to 10pm"
     },
     {
