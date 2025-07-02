@@ -56,15 +56,15 @@ export const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-primary-500" />
-                <span className="text-gray-300">info@smartseyalitech.com</span>
+                <span className="text-gray-300">smartseyali@gmail.com</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-primary-500" />
-                <span className="text-gray-300">+1 (555) 123-4567</span>
+                <span className="text-gray-300">+91 90477 36612</span>
               </li>
               <li className="flex items-center space-x-3">
                 <MapPin className="h-4 w-4 text-primary-500" />
-                <span className="text-gray-300">San Francisco, CA</span>
+                <span className="text-gray-300">Nethaji 3rd Street, SR Nagar, Tiruppur, IN</span>
               </li>
             </ul>
           </div>
