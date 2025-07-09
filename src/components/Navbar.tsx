@@ -22,11 +22,11 @@ export const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link to="/" className="flex items-center">
+         <Link to="/" className="flex items-center">
   <img
     src="/logo.png"
     alt="Smartseyali Tech Logo"
-   className="h-50 w-50 object-contain"
+    className="h-14 w-14 object-contain"
   />
 </Link>
 
