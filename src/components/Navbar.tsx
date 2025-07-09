@@ -23,12 +23,12 @@ export const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
          <Link to="/" className="flex items-center">
-  <img
-    src="/logo.png"
-    alt="Smartseyali Tech Logo"
-    className="h-20 w-20 object-contain"
-  />
-</Link>
+          <img
+            src="/logo.png"
+            alt="Smartseyali Tech Logo"
+            className="h-24 w-24 object-contain" // Increased size
+          />
+          </Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
