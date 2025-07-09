@@ -11,7 +11,7 @@ export const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <div className="flex items-center space-x-1">
-               <img src="/favicon.ico" alt="logo"/>
+               <img src="/favicon.ico" alt="logo" className="h-10 w-10 object-contain" />
               </div>
               <span className="text-xl font-bold">Smartseyali Tech</span>
             </div>
