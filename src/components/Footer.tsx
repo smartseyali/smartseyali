@@ -76,7 +76,7 @@ export const Footer = () => {
             © 2024 Smartseyali Tech. All rights reserved. | Built with innovation and passion.
           </p>
         </div>
-      </div>
+
     </footer>
   );
 };
