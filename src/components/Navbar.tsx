@@ -26,7 +26,7 @@ export const Navbar = () => {
   <img
     src="/logo.png"
     alt="Smartseyali Tech Logo"
-    className="h-25 w-25 object-contain"
+    className="h-22 w-22 object-contain"
   />
 </Link>
 
