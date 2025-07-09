@@ -9,12 +9,14 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
+            <div className="flex items-center space-x-2 mb-4">
             <img
             src="/logo.png"
             alt="Smartseyali Tech Logo"
             className="h-24 w-24 object-contain" // Increased size
             style={{ minWidth: "300px", minHeight: "300px" }} // Ensures larger display
           />
+              </div>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Innovative technology startup focused on developing cutting-edge software 
