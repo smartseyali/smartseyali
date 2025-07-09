@@ -27,7 +27,7 @@ export const Navbar = () => {
             src="/logo.png"
             alt="Smartseyali Tech Logo"
             className="h-24 w-24 object-contain" // Increased size
-            style={{ minWidth: "96px", minHeight: "96px" }} // Ensures larger display
+            style={{ minWidth: "300px", minHeight: "300px" }} // Ensures larger display
           />
         </Link>
 
