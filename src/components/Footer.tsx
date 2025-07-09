@@ -11,7 +11,7 @@ export const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2">
             <img
-            src="/logo.png"
+            src="/logo200.png"
             alt="Smartseyali Tech Logo"
             className="h-24 w-24 object-contain" // Increased size
             style={{ minWidth: "300px", minHeight: "300px" }} // Ensures larger display
