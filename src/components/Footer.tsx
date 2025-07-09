@@ -14,7 +14,7 @@ export const Footer = () => {
             src="/logo.png"
             alt="Smartseyali Tech Logo"
             className="h-24 w-24 object-contain" // Increased size
-            style={{ minWidth: "300px", minHeight: "300px" }} // Ensures larger display
+ // Ensures larger display
           />
               </div>
             </div>
