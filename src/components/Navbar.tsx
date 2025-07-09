@@ -23,15 +23,15 @@ export const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="flex items-center space-x-1">
-              <Code className="h-8 w-8 text-primary-600" />
-              <Smartphone className="h-6 w-6 text-primary-500" />
-              <Monitor className="h-7 w-7 text-primary-700" />
-            </div>
-            <span className="text-xl font-bold text-gray-900">
-              Smartseyali Tech
-            </span>
-          </Link>
+  <img
+    src="/logo.png"
+    alt="Smartseyali Tech Logo"
+    className="h-10 w-10 object-contain"
+  />
+  <span className="text-xl font-bold text-gray-900">
+    Smartseyali Tech
+  </span>
+</Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
