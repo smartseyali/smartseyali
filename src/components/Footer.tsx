@@ -11,9 +11,7 @@ export const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <div className="flex items-center space-x-1">
-                <Code className="h-8 w-8 text-primary-500" />
-                <Smartphone className="h-6 w-6 text-primary-400" />
-                <Monitor className="h-7 w-7 text-primary-600" />
+               <img src="/favicon.ico" alt="logo"/>
               </div>
               <span className="text-xl font-bold">Smartseyali Tech</span>
             </div>
