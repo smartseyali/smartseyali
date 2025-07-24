@@ -12,7 +12,7 @@ import Services from "./pages/Services";
 import Products from "./pages/Products";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
-
+import License from "./pages/License";
 const queryClient = new QueryClient();
 
 const App = () => (
@@ -31,6 +31,7 @@ const App = () => (
               <Route path="/products" element={<Products />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="*" element={<NotFound />} />
+              <Route path="*" element={<License />} />
             </Routes>
           </main>
           <Footer />
