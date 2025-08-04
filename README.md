@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# Smartseyali - Smart Business Solutions
 
-## Project info
+Welcome to the GitHub repository for [Smartseyali](https://smartseyali.com), a forward-thinking software development company focused on delivering smart, scalable, and impactful digital solutions for modern businesses.
 
-**URL**: https://lovable.dev/projects/c0d2dfde-9a5e-4dfb-a576-7be129b38551
+## 🚀 What We Do
 
-## How can I edit this code?
+At **Smartseyali**, we specialize in building powerful digital platforms tailored to business needs. Our current core projects include:
 
-There are several ways of editing your application.
+- **💬 WhatsApp Business API Platform**
+  - Messaging automation and customer engagement tools
+  - Template message management
+  - Campaign scheduling and delivery tracking
+  - Admin panel with analytics and user control
 
-**Use Lovable**
+- **📞 Customer Relationship Management (CRM)**
+  - Lead management and conversion tracking
+  - Customer lifecycle insights and interactions
+  - Sales funnel visualization and team collaboration
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c0d2dfde-9a5e-4dfb-a576-7be129b38551) and start prompting.
+- **🛒 E-Commerce Order Management Platform**
+  - Centralized product and inventory management
+  - Order processing, tracking, and returns handling
+  - Vendor integration and multi-channel syncing
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🌐 Website
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Visit our official website: [https://smartseyali.com](https://smartseyali.com)  
+Learn more about our services, technologies, and how we can support your business.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 💼 Services Offered
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Custom Software Development  
+- Business Process Automation  
+- API Integrations  
+- Mobile App & Web App Development  
+- Data & Analytics Solutions
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🧰 Tech Stack
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Our solutions are built using modern and scalable technologies:
 
-**Edit a file directly in GitHub**
+- **Frontend**: React.js, Vite, Tailwind CSS  
+- **Backend**: Supabase, Node.js, PostgreSQL  
+- **Messaging**: WhatsApp Cloud API, Webhooks  
+- **Task Automation**: Cron Jobs, Edge Functions
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 📞 Contact Us
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Want to collaborate or learn more?
 
-## What technologies are used for this project?
+- 🌐 Website: [smartseyali.com](https://smartseyali.com)
+- 📧 Email: contact@smartseyali.com
+- 📱 WhatsApp: [Click to Chat](https://wa.me/<your-number>)
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📌 License
 
-## How can I deploy this project?
+This repository is for informational purposes. Code and platforms under active development are privately managed unless otherwise specified.
 
-Simply open [Lovable](https://lovable.dev/projects/c0d2dfde-9a5e-4dfb-a576-7be129b38551) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
