@@ -1,8 +1,9 @@
 
 import { Link } from "react-router-dom";
-import { Code, Smartphone, Monitor, Mail, Phone, MapPin, Facebook, Twitter, Linkedin, Github } from "lucide-react";
+import { Code, Smartphone, Monitor, Mail, Phone, MapPin, Facebook, Instagram, Github } from "lucide-react";
 
 export const Footer = () => {
+  const currentYear = new Date().getFullYear();
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -21,16 +22,14 @@ export const Footer = () => {
               in web, mobile, and desktop applications.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors">
+              <a href="https://www.facebook.com/smartseyalitech" className="text-gray-400 hover:text-primary-500 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors">
-                <Twitter className="h-5 w-5" />
+              <a href="https://www.instagram.com/smartseyalitech" className="text-gray-400 hover:text-primary-500 transition-colors">
+                <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors">
-                <Linkedin className="h-5 w-5" />
-              </a>
-              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors">
+              
+              <a href="https://github.com/smartseyali" className="text-gray-400 hover:text-primary-500 transition-colors">
                 <Github className="h-5 w-5" />
               </a>
             </div>
@@ -70,7 +69,7 @@ export const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 Smartseyali Tech. All rights reserved. | Built with innovation and passion.
+            © {currentYear} Smartseyali Tech. All rights reserved. | Built with innovation and passion.
           </p>
         </div>
       </div>
