@@ -15,13 +15,16 @@ import NotFound from "./pages/NotFound";
 import PrivacyPolicy from "./pages/License";
 const queryClient = new QueryClient();
 
+
+import WhatsAppButton from "./components/WhatsAppButton";
+
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
       <Toaster />
       <Sonner />
       <BrowserRouter basename="/">
-        <div className="min-h-screen flex flex-col">
+        <div className="min-h-screen flex flex-col relative">
           <Navbar />
           <main className="flex-grow">
             <Routes>
@@ -35,6 +38,7 @@ const App = () => (
             </Routes>
           </main>
           <Footer />
+          <WhatsAppButton />
         </div>
       </BrowserRouter>
     </TooltipProvider>
