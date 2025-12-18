@@ -57,8 +57,8 @@ Our solutions are built using modern and scalable technologies:
 Want to collaborate or learn more?
 
 - 🌐 Website: [smartseyali.com](https://smartseyali.com)
-- 📧 Email: contact@smartseyali.com
-- 📱 WhatsApp: [Click to Chat](https://wa.me/<your-number>)
+- 📧 Email: smartseyali@gmail.com
+- 📱 WhatsApp: [Click to Chat](https://wa.me/919047736612)
 
 ---
 
